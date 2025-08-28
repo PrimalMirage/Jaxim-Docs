@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrimalMirage/Jaxim-Docs/main/jaxim-banner.png" alt="$JAXIM Banner" width="600"/>
+  <img src="https://raw.githubusercontent.com/PrimalMirage/Jaxim-Docs/main/Jaxim-Banner.png" alt="$JAXIM Banner" width="600"/>
 </p>
 
 # 📜 $JAXIM – The Genie of Base
